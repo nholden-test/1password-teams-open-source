@@ -1110,3 +1110,7 @@ https://coinworks.club/
 ### Quanto Chevron
 A simple toolkit to act as a GPG/PGP Manager/Create/Sign/Verify/Encrypt/Decrypt deamon, to use GPG/PGP as a service over HTTP.
 https://github.com/quan-to/chevron | https://quan.to
+
+### Texas Justice Initaitive
+Texas Justice Initiative is a nonprofit organization that collects, analyzes, publishes and provides oversight for criminal justice data throughout Texas. TJI's code, including the code that powers [our website] and the code that powers our [data processing], is open source.
+https://texasjusticeinitiative.org
